@@ -31,7 +31,8 @@ const useStyles = makeStyles((theme) => ({
     form: {
         padding: theme.spacing(2),
         [theme.breakpoints.down("sm")]: {
-            padding: theme.spacing(4),
+            padding: theme.spacing(8),
+            width: "63vw",
        }
     },
     item: {
