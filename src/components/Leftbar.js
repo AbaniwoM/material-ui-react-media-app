@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
     },
     icon: {
         marginRight: theme.spacing(1),
-        fontSize: "11px",
+        fontSize: "19px",
         paddingTop: theme.spacing(-1),
         [theme.breakpoints.up("sm")]: {
             fontSize: "18px",
